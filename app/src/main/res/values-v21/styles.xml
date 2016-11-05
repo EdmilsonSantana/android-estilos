@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Implement features for API 21 and above -->
+    <style name="MyAppTheme" parent="MyBaseAppTheme">
+        <item name="android:windowActivityTransitions">true</item>
+    </style>
+</resources>
